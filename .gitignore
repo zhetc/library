@@ -1,0 +1,6 @@
+.git
+.idea
+!.gitignore
+!composer.json
+/composer.lock
+/vendor
